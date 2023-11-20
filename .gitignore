@@ -397,3 +397,4 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/Build/Win64/x64/StealthProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.pch
