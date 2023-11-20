@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StealthProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\StealthProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProject.init.gen.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProjectCharacter.gen.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProjectGameMode.gen.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProject.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProjectCharacter.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\StealthProjectGameMode.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\Default.rc2.res"
+/OUT:"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StealthProject\UnrealEditor-StealthProject.lib"
