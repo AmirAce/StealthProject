@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ALSEditor.cpp.obj": [
+			"ALSEditor.init.gen.cpp.obj",
+			"ALSEditorModule.cpp.obj",
+			"AlsSkeletonUtility.cpp.obj",
+			"AlsAnimationModifier_CalculateRotationYawSpeed.cpp.obj",
+			"AlsAnimationModifier_CopyCurves.cpp.obj",
+			"AlsAnimationModifier_CreateCurves.cpp.obj",
+			"AlsAnimationModifier_CreateLayeringCurves.cpp.obj",
+			"AlsAnimGraphNode_CurvesBlend.cpp.obj",
+			"AlsAnimGraphNode_GameplayTagsBlend.cpp.obj"
+		]
+	}
+}

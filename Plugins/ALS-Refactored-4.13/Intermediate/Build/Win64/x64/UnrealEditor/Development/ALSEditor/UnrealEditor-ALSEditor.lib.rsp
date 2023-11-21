@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ALSEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Intermediate\Build\Win64\x64\StealthProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Plugins\ALS-Refactored-4.13\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\Module.ALSEditor.cpp.obj"
+"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Plugins\ALS-Refactored-4.13\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\Default.rc2.res"
+/OUT:"C:\Users\aamir\Documents\Unreal Projects\StealthProject\Plugins\ALS-Refactored-4.13\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSEditor\UnrealEditor-ALSEditor.lib"

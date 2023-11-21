@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ALSExtras.cpp.obj": [
+			"ALSExtras.init.gen.cpp.obj",
+			"AlsAIController.cpp.obj",
+			"AlsCharacterExample.cpp.obj",
+			"ALSExtrasModule.cpp.obj"
+		]
+	}
+}
