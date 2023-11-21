@@ -1,0 +1,7 @@
+/Binaries/Win64/UnrealEditor-StealthProject.pdb filter=lfs diff=lfs merge=lfs -text
+/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
+/Intermediate/Build/Win64/x64/StealthProjectEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj filter=lfs diff=lfs merge=lfs -text
+/Intermediate/Build/Win64/x64/StealthProjectEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.pch filter=lfs diff=lfs merge=lfs -text
+/Intermediate/Build/Win64/x64/StealthProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj filter=lfs diff=lfs merge=lfs -text
+/Intermediate/Build/Win64/x64/StealthProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.pch filter=lfs diff=lfs merge=lfs -text
+/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json filter=lfs diff=lfs merge=lfs -text
